@@ -1,0 +1,6 @@
+#bin/bash
+echo "where are you"
+read office
+echo "what are you doing"
+read officework
+
