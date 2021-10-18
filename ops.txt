@@ -3,4 +3,5 @@ echo "where are you"
 read office
 echo "what are you doing"
 read officework
-
+echo "what was your office timeings"
+read 9am to 6pm
