@@ -1,0 +1,4 @@
+#bin/bash
+echo "your good name please"
+read "kaza"
+
