@@ -1,0 +1,7 @@
+#bin/bash
+echo "hey how are you"
+read "good now"
+echo "god bless you"
+read "tq"
+echo "what about your work"
+read "fn"
